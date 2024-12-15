@@ -1,0 +1,20 @@
+.container {
+  border: 5px solid black;
+  width: 200px;
+  height: 150px;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%)
+}
+.tulisan {
+  color: black;
+}
+#pth,#htm {
+  border: 2px solid black;
+  width: 50px;
+  height: 20px;
+  color: black;
+  background-color: white;
+}
